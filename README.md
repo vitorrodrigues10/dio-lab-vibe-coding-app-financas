@@ -207,8 +207,8 @@ Entrevistar 5 usuários para entender: "Houve algum gasto que você tentou regis
 
 ![Interação com o Lovable](outputs/ia-image-3.png)
 
-![Interação com o Lovable](outputs/ia-image-4.png)
+![Interação com o Lovable](outputs/ia-image-4.jpeg)
 
-![Interação com o Lovable](outputs/ia-image-5.png)
+![Interação com o Lovable](outputs/ia-image-5.jpeg)
 
-![Interação com o Lovable](outputs/ia-image-6.png)
+![Interação com o Lovable](outputs/ia-image-6.jpeg)
