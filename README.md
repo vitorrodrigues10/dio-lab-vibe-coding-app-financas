@@ -1,5 +1,48 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
+## Prompt inicial utilizado para a criação do PRD
+
+```txt
+Quero criar um MVP de um APP de finanças no Lovable. Preciso da sua ajuda para refinar meu PRD (prompt) para que eu consiga fazer isso da forma mais eficiente possível.
+
+O modelo inicial que eu tenho é o seguinte:
+´´´´
+# Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
+A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+
+# Problema
+Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
+Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+
+# Público-Alvo
+Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+
+# Funcionalidades-Chave
+1. Registrar gastos via chat em linguagem natural.  
+2. Classificar automaticamente as transações.  
+3. Definir e acompanhar metas financeiras.  
+4. Receber dicas de economia do “Agente Financeiro”.  
+5. Visualizar relatórios simples e personalizados.
+
+# Entregável da IA
+Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
+Usar tom educativo e linguagem acessível, em português.
+´´´´
+
+Preciso que o Lovable me entrege, principalmente, estes pontos abaixo.
+´´´´
+1. Agente Financeiro: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
+2. Fluxo de Telas: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
+3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
+´´´´
+```
+### Imagem com interação com o Google Gemini
+
+![Interação com o Google Gemini](outputs/ia-image-1.png)
+
+## Prompt enviado para o Lovable
+
 ```txt
 Título do Projeto
 
@@ -158,3 +201,14 @@ Após 3 dias de uso, disparar uma pergunta no chat: "Em uma escala de 0 a 10, qu
 
 Entrevistar 5 usuários para entender: "Houve algum gasto que você tentou registrar e eu não entendi?".
 ```
+### Imagens da interação com o Lovable e resultados obtidos
+
+![Interação com o Lovable](outputs/ia-image-2.png)
+
+![Interação com o Lovable](outputs/ia-image-3.png)
+
+![Interação com o Lovable](outputs/ia-image-4.png)
+
+![Interação com o Lovable](outputs/ia-image-5.png)
+
+![Interação com o Lovable](outputs/ia-image-6.png)
